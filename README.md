@@ -1,5 +1,6 @@
 # The-Sparks-Foundation_GRIP-Task-2
 IoT and Computer Vision
+
 ->Create a new Environment to set the path in PyCharm.
 
 ->Make an editor to use identification of color indicators.
