@@ -11,6 +11,6 @@ IoT and Computer Vision
 
 ->Once click the commit,then the automatically the files are pushed
 
-->Check the repository onec, the upload file has been saved
+->Check the repository once, the upload file has been saved
 
 ->This repository is for my internship of the project, task based work
